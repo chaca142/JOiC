@@ -1,0 +1,7 @@
+name: Join Op is Creative
+main: chaca142\joic
+author: chaca142
+version: 1.0.0
+api:
+  - 3.5.8
+description: OP権限者がサーバーに入ったらクリエにする
